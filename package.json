@@ -1,11 +1,27 @@
 {
-	"author":"Karsten Huttelmaier",
-	"name":"censorify",
-	"version": "0.1.1",
-	"description" :"Karsten's version of word censoring",
-	"main": "censortext",
-	"dependencies": {},
-	"engines":{
-		"node": "*"
-	}
+  "author": "Karsten Huttelmaier",
+  "name": "censorifykph",
+  "version": "0.1.1",
+  "description": "Karsten's version of word censoring",
+  "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kphutt/censorify"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/kphutt/censorify/issues"
+  },
+  "homepage": "https://github.com/kphutt/censorify",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
 }
