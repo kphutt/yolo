@@ -1,0 +1,11 @@
+{
+	"author":"Karsten Huttelmaier",
+	"name":"censorify",
+	"version": "0.1.1",
+	"description" :"Karsten's version of word censoring",
+	"main": "censortext",
+	"dependencies": {},
+	"engines":{
+		"node": "*"
+	}
+}
